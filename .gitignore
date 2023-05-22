@@ -1,0 +1,9 @@
+cert.pem
+key.pem
+*/.obsidian
+.idea/
+*.swp
+
+skyhook
+webroot/*
+*/node_modules/
