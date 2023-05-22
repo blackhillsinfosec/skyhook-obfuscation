@@ -1,4 +1,4 @@
-module git.nopsled.me/bhis/skyhook-obfuscators
+module github.com/blackhillsinfosec/skyhook-obfuscation
 
 go 1.19
 

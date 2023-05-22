@@ -1,7 +1,7 @@
 package main
 
 import (
-	obfs "git.nopsled.me/bhis/skyhook-obfuscators"
+	obfs "github.com/blackhillsinfosec/skyhook-obfuscation"
 	"syscall/js"
 )
 
